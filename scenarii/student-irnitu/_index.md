@@ -11,4 +11,8 @@ title: Студент ИРНИТУ
 
 -  [Отзыв своей заявки](./otzyv-svoey-zayavki.md)
 
+-  [Изменение приоритетов на проекты](./project-priority-change-to-stud.md)
+
+-  [Просмотр статуса и результатов автоматического распределения](./status-and-automatical-results-vision.md)
+
 
