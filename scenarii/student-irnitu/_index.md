@@ -15,4 +15,5 @@ title: Студент ИРНИТУ
 
 -  [Просмотр статуса и результатов автоматического распределения](./status-and-automatical-results-vision.md)
 
+-  [Просмотр своих проектов](./prosmotr-svoih-proektov.md)
 
