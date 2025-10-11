@@ -15,6 +15,6 @@ title: Студент ИРНИТУ
 
 -  [Просмотр статуса и результатов автоматического распределения](./status-and-automatical-results-vision.md)
 
--  [Фильтр проетов](./filtr-proektov.md)
+-  [Фильтр проектов](./filtr-proektov.md)
 
 -  [Просмотр карточки проекта](./prosmotr-kartochki-proekta.md)
