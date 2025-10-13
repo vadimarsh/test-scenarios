@@ -9,4 +9,6 @@ title: Сценарии использования
 
 [Директор института](./direktor-instituta/_index.md)
 
+[Руководитель центра проектного обучения](./proj-center-manager/_index.md)
+
 

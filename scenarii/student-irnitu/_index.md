@@ -17,3 +17,6 @@ title: Студент ИРНИТУ
 
 -  [Просмотр своих проектов](./prosmotr-svoih-proektov.md)
 
+-  [Фильтр проектов](./filtr-proektov.md)
+
+-  [Просмотр карточки проекта](./prosmotr-kartochki-proekta.md)
