@@ -7,3 +7,4 @@ title: Директор института
 -  [Просмотр активных проектов от института](./prosmotr-aktivnih-proektov-ot-instituta.md)
 -  [Просмотр проектных заявок](./prosmotr-proektnih-zayavok.md)
 -  [Выгрузка отчётов со статусом «Не сдан»](./vygruzka-otchetov-so-statusom-ne-sdan.md)
+-  [Отклонение проектной заявки от сотрудника](./otklonenie-proektnoi-zayavki-ot-sotrudnika.md)
