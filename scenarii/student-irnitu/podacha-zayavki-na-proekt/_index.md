@@ -1,5 +1,5 @@
 ---
-order: 1.5
+order: 4
 title: "Подача заявки на проект "
 ---
 
@@ -31,4 +31,4 @@ title: "Подача заявки на проект "
 
 # Альтернативный сценарий
 
-[Подача заявки на проект по окончанию приема заявок](./student-irnitu/podacha-zayavki-na-proekt-alt.md)
+[Подача заявки на проект по окончанию приема заявок](./../student-irnitu/podacha-zayavki-na-proekt-alt.md)
