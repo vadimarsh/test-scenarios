@@ -31,4 +31,4 @@ title: "Подача заявки на проект "
 
 # Альтернативный сценарий
 
-[Подача заявки на проект по окончанию приема заявок](./../student-irnitu/podacha-zayavki-na-proekt-alt.md)
+[Подача заявки на проект по окончанию приема заявок](./../podacha-zayavki-na-proekt/podacha-zayavki-na-proekt-alt.md)
