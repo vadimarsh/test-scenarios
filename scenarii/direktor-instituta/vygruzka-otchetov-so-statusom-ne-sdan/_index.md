@@ -31,4 +31,4 @@ order: 3.5
 
 ## Альтернативный сценарий
 
-[Попытка выгрузки отчетов со статусом «Сдан»](./vygruzka-otchetov-so-statusom-ne-sdan/vygruzka-otchetov-so-statusom-ne-sdan-alt.md)
+[Попытка выгрузки отчетов со статусом «Сдан»](./vygruzka-otchetov-so-statusom-ne-sdan-alt.md)
